@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+
+# testing
+/coverage
+
+# production
+/build
+/env
+
+# misc
+.DS_Store
+.ipynb_checkpoints

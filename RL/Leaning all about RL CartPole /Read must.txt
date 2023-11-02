@@ -1,0 +1,12 @@
+This is the nutshell all about the Reinforcement learning model, it contain all from
+
+    1. installing and importing dependencies, 
+    2. Testing and Understanding env
+    3. Training the RL model or Agent Training on env
+    4. Save and Reload the Model 
+    5. Evaluation of the model 
+    6. Testing the Model 
+    7. Viewing the log in tensorboard
+    8. Adding callback to training stages
+    9. Changing the policies 
+    10. Using alternative policies 
